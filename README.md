@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilsodinapalli
 - 👀 I’m interested in reading books
-- 🌱 I’m currently learning embedded systems
+- 🌱 I’m currently learning verilog systems
 - 💞️ I’m looking to work with positive people
 - 📫 How to reach me @akhilsodinapalli22@gmail.com
 - 😄 Pronouns: he/him
